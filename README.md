@@ -1,5 +1,7 @@
 # gullwidth
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/clukawski/gullwidth.svg)](https://pkg.go.dev/github.com/clukawski/gullwidth)
+
 Create fullwidth text from ASCII input. For ＡＥＳＴＨＥＴＩＣ purposes ＯＮＬＹ.
 
 ## Usage
